@@ -1,4 +1,4 @@
-name: testing numba runners
+name: testing runners
 
 # Controls when the workflow will run
 on:
